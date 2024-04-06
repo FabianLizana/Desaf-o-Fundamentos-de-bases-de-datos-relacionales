@@ -15,7 +15,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 ### 1.2. respuesta
 ![Output Solución Pregunta 1](./screenshots/respuesta_pregunta_1.png)
 
-## 2. Cargar ambos archivos a su tabla correspondiente y aplicar el truncado de estas
+## 2. Cargar ambos archivos a su tabla correspondiente 
 
 ### 2.1. Código
 
