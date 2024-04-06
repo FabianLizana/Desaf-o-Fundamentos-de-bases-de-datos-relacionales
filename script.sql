@@ -1,7 +1,7 @@
 --1. Crear una base de datos llamada películas.
 CREATE DATABASE peliculas;
 
---2. Cargar ambos archivos a su tabla correspondiente y aplicar el truncado de estas.
+--2. Cargar ambos archivos a su tabla correspondiente 
 con el metodo import de de DBeaver cargo los archivos a las tablas correspondientes.
 
 --3. Obtener el ID de la película “Titanic”.

@@ -12,8 +12,8 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 1](./screenshots/codigo_pregunta_1.png)
 
-### 1.2. Output
-![Output Solución Pregunta 3](./screenshots/respuesta_pregunta_1.png)
+### 1.2. respuesta
+![Output Solución Pregunta 1](./screenshots/respuesta_pregunta_1.png)
 
 ## 2. Cargar ambos archivos a su tabla correspondiente y aplicar el truncado de estas
 
@@ -21,7 +21,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 2](./screenshots/codigo_pregunta_2.png)
 
-### 2.2. Output
+### 2.2. respuesta
 ![Output Solución Pregunta 3](./screenshots/respuesta_pregunta_2.png)
 
 ## 3. Obtener el ID de la película “Titanic”
@@ -30,7 +30,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 3](./screenshots/codigo_pregunta_3.png)
 
-### 3.2. Output
+### 3.2. respuesta
 
 ![Output Solución Pregunta 3](./screenshots/respuesta_pregunta_3.png)
 
@@ -40,7 +40,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 4](./screenshots/codigo_pregunta_4.png)
 
-### 4.2. Output
+### 4.2. respuesta
 
 ![Output Solución Pregunta 4](./screenshots/respuesta_pregunta_4.png)
 
@@ -50,7 +50,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 5](./screenshots/codigo_pregunta_5.png)
 
-### 5.2. Output
+### 5.2. respuesta
 
 ![Output Solución Pregunta 5](./screenshots/respuesta_pregunta_5.png)
 
@@ -60,7 +60,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 6](./screenshots/codigo_pregunta_6.png)
 
-### 6.2. Output
+### 6.2. respuesta
 
 ![Output Solución Pregunta 6](./screenshots/respuesta_pregunta_6.png)
 
@@ -70,7 +70,7 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 7](./screenshots/codigo_pregunta_7.png)
 
-### 7.2. Output
+### 7.2. respuesta
 
 ![Output Solución Pregunta 7](./screenshots/respuesta_pregunta_7.webp)
 
@@ -80,6 +80,6 @@ Para realizar el desafío he utilizado **DBeaver**.
 
 ![Código Solución Pregunta 8](./screenshots/codigo_pregunta_8.png)
 
-### 8.2. Output
+### 8.2. respuesta
 
 ![Output Solución Pregunta 8](./screenshots/respuesta_pregunta_8.png)
